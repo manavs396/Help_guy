@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyHelpGuy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_problem_list">ProblemList</string>
+</resources>
